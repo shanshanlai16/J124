@@ -8,7 +8,7 @@
 2.  Data journalism 
 3.  Graphic design 
 
-| Employer     | Job Description             |
-|--------------|-----------------------------|
-| Tsinghua uni | *UI designer for library    |
-| Tencent      | Inter in Design Department  |
+| Employer | Job description |
+|---|---|
+| Tsinghua uni | ·UI designer for library ·Team leader |
+| Tencent | ·Inter in Design Department ·Designer |
